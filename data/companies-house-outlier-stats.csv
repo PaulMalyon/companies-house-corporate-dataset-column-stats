@@ -1,0 +1,54 @@
+Name,Uniqueness,Completeness,Is a Sequence,Key Check,Rare Formats,Rare Values,Frequent Values,Short Values,Long Values,Missing Values,Negative Values,Low Amounts,High Amounts,Alphanumeric Completeness,Integer Completeness,Decimal Completeness,Date Completeness,Money Completeness,Format Count,Null Count,Minimum,Maximum,Least Common Value,Most Common Value,Minimum Length,Maximum Length
+Companyname,99.98%,99.99%,,Broken Key,,,Frequent,,Long Values,Missing Values,,,,100%,1%,1%,0%,0%,"347,255",1,_XURBIA_XENDLESS LIMITED,ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ LIMITED,35448,DEVON FUEL ASSOCIATES LTD. T/A SERVICETECH SOUTH WEST PARTNERSHIP,1,160
+Companynumber,100%,100%,,Key,Rare Formats,,,Short Values,,,,,,100%,100%,0%,0%,0%,18,0,6,ZC000202,6,6,1,8
+Regaddress Careof,1.75%,4.42%,,,,,Frequent,,Long Values,,,,,100%,1%,1%,1%,0%,"15,846","3,716,874",-,ZYTRONIC PLC,8,BOOX,1,82
+Regaddress Pobox,0.05%,0.1%,,,,,Frequent,,,,,,,3.69%,5.97%,0%,0%,0%,190,"3,884,885",-,ZE1 0WQ,11,10522,1,10
+Regaddress Addressline1,39.96%,99.72%,,,,,Frequent,,Long Values,Missing Values,,,,100%,1%,0%,0%,0%,"189,291","11,057",- -,"ZZ, 8/1 EYRE PLACE",14,20-22 WENLOCK ROAD,1,101
+Regaddress Addressline2,7.59%,67.86%,,,,,Frequent,,Long Values,Missing Values,,,,100%,1.25%,1%,0%,0%,"39,159","1,249,661",-,ZURICH 7,0,LONDON,1,70
+Regaddress Posttown,1.26%,97.7%,,,Rare Formats,,Frequent,,Long Values,Missing Values,,,,100%,1%,0%,0%,0%,"8,438","89,354",",CORNWALL",ZWOLLE 8041 BL,123,LONDON,1,50
+Regaddress County,0.4%,51.19%,,,Rare Formats,,Frequent,,Long Values,Missing Values,,,,100%,1.02%,0%,0%,0%,"4,233","1,897,854",-,ZURICH 8008,5,ESSEX,1,50
+Regaddress Country,0.01%,32.14%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,109,"2,639,002",AFGHANISTAN,ZIMBABWE,AFGHANISTAN,ENGLAND,1,50
+Regaddress Postcode,20.98%,99.02%,,,Rare Formats,,Frequent,Short Values,Long Values,Missing Values,,,,100%,1%,0%,1%,0%,328,"37,926",.,ZE3 9JU,0,N1 7GU,1,15
+Companycategory,0.01%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,20,0,Community Interest Company,Royal Charter Company,Converted/Closed,Private Limited Company,16,89
+Companystatus,0.01%,100%,,,Rare Formats,Rare Values,,,Long Values,,,,,100%,0%,0%,0%,0%,14,0,Active,VOLUNTARY ARRANGEMENT / RECEIVER MANAGER,VOLUNTARY ARRANGEMENT / ADMINISTRATIVE RECEIVER,Active,6,48
+Countryoforigin,0.01%,99.99%,,,Rare Formats,Rare Values,Frequent,Short Values,Long Values,Missing Values,,,,100%,0%,0%,0%,0%,49,14,AFGHANISTAN,ZIMBABWE,AFGHANISTAN,United Kingdom,2,24
+Dissolutiondate,0%,0%,,,,,,,,,,,,0%,0%,0%,0%,0%,0,"3,888,642",,,,,0,0
+Incorporationdate,0.76%,99.99%,,,Rare Formats,,Frequent,,,Missing Values,,,,0%,0%,0%,100%,0%,1,1,25-Apr-1552,29-Jul-2016,25-Apr-1552,07-Apr-2016,11,11
+Accounts Accountrefday,0.01%,98.6%,,,,,Frequent,,,Missing Values,,Low,,0%,100%,0%,0%,0%,2,"54,598",1,31,17,31,1,2
+Accounts Accountrefmonth,0.01%,98.6%,,,,,,,,Missing Values,,,,0%,100%,0%,0%,0%,2,"54,598",1,12,11,3,1,2
+Accounts Nextduedate,0.15%,98.2%,,,Rare Formats,Rare Values,Frequent,,,Missing Values,,,,0%,0%,0%,100%,0%,1,"70,142",01-Nov-1877,30-Sep-2018,01-Nov-1877,31-Dec-2016,11,11
+Accounts Lastmadeupdate,0.06%,72.16%,,,Rare Formats,Rare Values,Frequent,,,Missing Values,,,,0%,0%,0%,100%,0%,1,"1,082,638",31-Mar-1969,31-Dec-9998,31-Dec-1973,31-Mar-2015,11,11
+Accounts Accountcategory,0.01%,96.88%,,,Rare Formats,Rare Values,,,,Missing Values,,,,100%,0%,0%,0%,0%,11,"121,214",ACCOUNTS TYPE NOT AVAILABLE,TOTAL EXEMPTION SMALL,INITIAL,TOTAL EXEMPTION SMALL,4,27
+Returns Nextduedate,0.23%,98.07%,,,Rare Formats,Rare Values,Frequent,,,Missing Values,,,,0%,0%,0%,100%,0%,1,"75,244",10-Feb-1989,16-Feb-2021,10-Feb-1989,28-Jan-2017,11,11
+Returns Lastmadeupdate,0.24%,79.44%,,,Rare Formats,Rare Values,Frequent,,,Missing Values,,,,0%,0%,0%,100%,0%,1,"799,406",11-Jan-1966,31-Dec-2049,11-Jan-1966,31-Dec-2015,11,11
+Mortgages Nummortcharges,0.01%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,High,0%,100%,0%,0%,0%,4,0,0,6121,186,0,1,4
+Mortgages Nummortoutstanding,0.01%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,High,0%,100%,0%,0%,0%,4,0,0,6121,139,0,1,4
+Mortgages Nummortpartsatisfied,0.01%,100%,,,Rare Formats,Rare Values,,,,,,,High,0%,100%,0%,0%,0%,2,0,0,84,15,0,1,2
+Mortgages Nummortsatisfied,0.01%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,High,0%,100%,0%,0%,0%,4,0,0,5720,143,0,1,4
+Siccode Sictext 1,0.03%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,"1,101",0,"01110 - Growing of cereals (except rice), leguminous crops and oil seeds",None Supplied,1030 - Extraction and agglomeration of peat,None Supplied,11,166
+Siccode Sictext 2,0.03%,6.33%,,,Rare Formats,,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,964,"3,642,482",01120 - Growing of rice,9999 - Dormant company,01230 - Growing of citrus fruits,68209 - Other letting and operating of own or leased real estate,11,166
+Siccode Sictext 3,0.02%,1.91%,,,,,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,806,"3,814,333",01140 - Growing of sugar cane,9999 - Dormant company,01160 - Growing of fibre crops,70229 - Management consultancy activities other than financial management,11,166
+Siccode Sictext 4,0.02%,0.69%,,,,,Frequent,,Long Values,,,,,68.68%,0%,0%,0%,0%,607,"3,861,935",01270 - Growing of beverage crops,99999 - Dormant Company,01270 - Growing of beverage crops,82990 - Other business support service activities n.e.c.,11,166
+Limitedpartnerships Numgenpartners,0.01%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,,,High,0%,100%,0%,0%,0%,3,0,0,110,13,0,1,3
+Limitedpartnerships Numlimpartners,0.01%,100%,,,Rare Formats,Rare Values,Frequent,,Long Values,,5 Values,,High,0%,100%,0%,0%,0%,4,0,-2,836,-2,0,1,3
+Uri,100%,100%,,Key,Rare Formats,,,,,,,,,100%,0%,0%,0%,0%,11,0,http://business.data.gov.uk/id/company/00000006,http://business.data.gov.uk/id/company/ZC000202,http://business.data.gov.uk/id/company/00000006,http://business.data.gov.uk/id/company/00000006,47,47
+Previousname 1 Condate,0.14%,11.54%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,100%,0%,1,"3,439,755",02-Aug-1996,29-Jul-2016,03-Aug-1996,25-Mar-2016,11,11
+Previousname 1 Companyname,11.45%,11.54%,,,,,Frequent,,Long Values,,,,,100%,1%,0%,0%,0%,"77,712","3,439,755",508380,ZZZZZZZZESTY ZEN & FRIENDS LTD,508380,LAMRON DEVELOPMENTS LIMITED,3,137
+Previousname 2 Condate,0.13%,2.13%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,100%,0%,1,"3,805,839",02-Aug-1996,27-Jul-2016,03-Aug-1996,29-Dec-2000,11,11
+Previousname 2 Companyname,2.12%,2.13%,,,,,Frequent,,Long Values,,,,,100%,0%,0%,0%,0%,"20,934","3,805,839",.COM IMAGING LIMITED,ZZZZZ LIMITED,""" LUMIERE CHAUFFEURS LTD",LAMRON DEVELOPMENTS LIMITED,3,160
+Previousname 3 Condate,0.12%,0.48%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,48.06%,0%,1,"3,869,955",02-Aug-1996,20-Jul-2016,14-Aug-1996,19-Jul-2006,11,11
+Previousname 3 Companyname,0.48%,0.48%,,,,,Frequent,,Long Values,,,,,48.06%,0%,0%,0%,0%,"6,462","3,869,955",..DALEGOLD LIMITED,ZZLY LIMITED,"""CATERING FOR TASTE"" LIMITED",A1 M1 DISCOUNT SELF STORAGE CENTRE LIMITED,2,116
+Previousname 4 Condate,0.07%,0.12%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,12.09%,0%,1,"3,883,942",06-Aug-1996,14-Jul-2016,07-Aug-1996,01-Jul-1997,11,11
+Previousname 4 Companyname,0.12%,0.12%,,,,,Frequent,,Long Values,,,,,12.09%,0%,0%,0%,0%,"2,178","3,883,942",(C.D.I.) CONSUMER DISPLAY INTERNATIONAL LIMITED,ZWETSLOOTS LIMITED,(C.D.I.) CONSUMER DISPLAY INTERNATIONAL LIMITED,GEORGE S. HALL (HOLDINGS) LIMITED,6,94
+Previousname 5 Condate,0.03%,0.03%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,3.35%,0%,1,"3,887,340",05-Aug-1996,12-Jul-2016,05-Aug-1996,11-Apr-1997,11,11
+Previousname 5 Companyname,0.03%,0.03%,,,,,,,Long Values,,,,,3.35%,0%,0%,0%,0%,774,"3,887,340",07762506 LIMITED,ZURICH FINANCIAL SERVICES (UK) LIFE LIMITED,07762506 LIMITED,07762506 LIMITED,7,68
+Previousname 6 Condate,0.01%,0.01%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,1.04%,0%,1,"3,888,237",16-Aug-1996,11-Jul-2016,16-Aug-1996,15-Oct-1999,11,11
+Previousname 6 Companyname,0.01%,0.01%,,,,,,,,,,,,1.04%,0%,0%,0%,0%,313,"3,888,237",115CR (087) LIMITED,ZIGBEE.CO.UK LIMITED,1 TO 1 BUSINESS SOLUTIONS LTD,1 TO 1 BUSINESS SOLUTIONS LTD,9,52
+Previousname 7 Condate,0.01%,0.01%,,,Rare Formats,,Frequent,,,,,,,0%,0%,0%,1%,0%,1,"3,888,503",01-Oct-1996,06-Jul-2016,01-Oct-1996,10-Sep-1998,11,11
+Previousname 7 Companyname,0.01%,0.01%,,,,,,,Long Values,,,,,1%,0%,0%,0%,0%,124,"3,888,503",2112TH SINGLE MEMBER SHELF INVESTMENT COMPANY LIMITED,YOUNGS BLUECREST SEAFOOD LIMITED,2112TH SINGLE MEMBER SHELF INVESTMENT COMPANY LIMITED,2112TH SINGLE MEMBER SHELF INVESTMENT COMPANY LIMITED,9,57
+Previousname 8 Condate,0.01%,0.01%,,,Rare Formats,,,,,,,,,0%,0%,0%,1%,0%,1,"3,888,592",21-Aug-1996,01-Jul-2016,21-Aug-1996,21-Aug-1996,11,11
+Previousname 8 Companyname,0.01%,0.01%,,,,,,,,,,,,1%,0%,0%,0%,0%,47,"3,888,592",ARRIVA TRAINS EAST COAST LIMITED,VAW WEST YORKSHIRE FOUNDRIES LTD,ARRIVA TRAINS EAST COAST LIMITED,ARRIVA TRAINS EAST COAST LIMITED,9,39
+Previousname 9 Condate,0.01%,0.01%,,,Rare Formats,,,,,,,,,0%,0%,0%,1%,0%,1,"3,888,622",08-Apr-1997,29-Jun-2016,08-Apr-1997,08-Apr-1997,11,11
+Previousname 9 Companyname,0.01%,0.01%,,,,,,,,,,,,1%,0%,0%,0%,0%,20,"3,888,622",ALECTO ENERGY LIMITED,WILTSHIRE BUSINESS SERVICES LIMITED,ALECTO ENERGY LIMITED,ALECTO ENERGY LIMITED,11,42
+Previousname 10 Condate,0.01%,0.01%,,,Rare Formats,,,,,,,,,0%,0%,0%,1%,0%,1,"3,888,627",11-May-1998,23-Jun-2016,11-May-1998,11-May-1998,11,11
+Previousname 10 Companyname,0.01%,0.01%,,,,,,,,,,,,1%,0%,0%,0%,0%,14,"3,888,627",ARRIVA INTERNATIONAL (5) LIMITED,THE SULTAN SUITE LIMITED,ARRIVA INTERNATIONAL (5) LIMITED,ARRIVA INTERNATIONAL (5) LIMITED,9,37
